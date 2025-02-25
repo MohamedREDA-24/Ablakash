@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ARApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <!-- Primary brand color (Action Bar color). -->
+        <item name="colorPrimary">#D2C9BF</item>
+
+        <!-- If you'd like a variant for darker surfaces (e.g. status bar overlays),
+             pick something slightly darker or lighter than #D2C9BF,
+             or just reuse the same value. -->
+        <item name="colorPrimaryVariant">#BFB7AD</item>
+        <!-- Or just reuse #D2C9BF if you prefer -->
+
+        <!-- Text/icon color on top of the primary color.
+             If your beige is light, black text usually has good contrast. -->
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#D2C9BF</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ARApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Use your chosen color here -->
+        <item name="colorPrimary">#D3AB7F</item>
+
+        <!-- If you still want a variant, you can keep it or remove it -->
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+
+        <!-- Other items remain the same -->
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        ...
+    </style>
+
+</resources>
